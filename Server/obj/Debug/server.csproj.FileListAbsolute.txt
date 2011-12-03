@@ -1,0 +1,146 @@
+C:\Users\Chau\Desktop\Server\bin\Debug\aiheo.exe.config
+C:\Users\Chau\Desktop\Server\bin\Debug\aiheo.exe
+C:\Users\Chau\Desktop\Server\bin\Debug\aiheo.pdb
+C:\Users\Chau\Desktop\Server\bin\Debug\Library.dll
+C:\Users\Chau\Desktop\Server\bin\Debug\Library.pdb
+C:\Users\Chau\Desktop\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chau\Desktop\Server\obj\Debug\aiheo.Properties.Resources.resources
+C:\Users\Chau\Desktop\Server\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Chau\Desktop\Server\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Chau\Desktop\Server\obj\Debug\aiheo.exe
+C:\Users\Chau\Desktop\Server\obj\Debug\aiheo.pdb
+C:\Users\Chau\Desktop\Server\obj\Debug\aiheo.Server.resources
+C:\Users\Chau\Desktop\Trac Nghiem v2\Server\bin\Debug\aiheo.exe.config
+C:\Users\Chau\Desktop\Trac Nghiem v2\Server\obj\Debug\aiheo.exe
+C:\Users\Chau\Desktop\Trac Nghiem v2\Server\obj\Debug\aiheo.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v2\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chau\Desktop\Trac Nghiem v2\Server\obj\Debug\aiheo.Properties.Resources.resources
+C:\Users\Chau\Desktop\Trac Nghiem v2\Server\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Chau\Desktop\Trac Nghiem v2\Server\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Chau\Desktop\Trac Nghiem v2\Server\bin\Debug\aiheo.exe
+C:\Users\Chau\Desktop\Trac Nghiem v2\Server\bin\Debug\aiheo.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v2\Server\bin\Debug\Library.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v2\Server\obj\Debug\ServerTN.Server.resources
+C:\Users\Chau\Desktop\Trac Nghiem v3\Server\bin\Debug\aiheo.exe.config
+C:\Users\Chau\Desktop\Trac Nghiem v3\Server\obj\Debug\aiheo.exe
+C:\Users\Chau\Desktop\Trac Nghiem v3\Server\obj\Debug\aiheo.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v3\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chau\Desktop\Trac Nghiem v3\Server\obj\Debug\ServerTN.Server.resources
+C:\Users\Chau\Desktop\Trac Nghiem v3\Server\obj\Debug\aiheo.Properties.Resources.resources
+C:\Users\Chau\Desktop\Trac Nghiem v3\Server\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Chau\Desktop\Trac Nghiem v3\Server\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Chau\Desktop\Trac Nghiem v3\Server\bin\Debug\aiheo.exe
+C:\Users\Chau\Desktop\Trac Nghiem v3\Server\bin\Debug\aiheo.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v3\Server\bin\Debug\Library.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v3\Server\bin\Debug\Library.dll
+C:\Users\Chau\Desktop\Trac Nghiem v4\Server\bin\Debug\aiheo.exe.config
+C:\Users\Chau\Desktop\Trac Nghiem v4\Server\obj\Debug\aiheo.exe
+C:\Users\Chau\Desktop\Trac Nghiem v4\Server\obj\Debug\aiheo.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v4\Server\bin\Debug\aiheo.exe
+C:\Users\Chau\Desktop\Trac Nghiem v4\Server\bin\Debug\aiheo.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v4\Server\bin\Debug\Library.dll
+C:\Users\Chau\Desktop\Trac Nghiem v4\Server\bin\Debug\Library.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v4\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chau\Desktop\Trac Nghiem v4\Server\obj\Debug\ServerTN.Server.resources
+C:\Users\Chau\Desktop\Trac Nghiem v4\Server\obj\Debug\aiheo.Properties.Resources.resources
+C:\Users\Chau\Desktop\Trac Nghiem v4\Server\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Chau\Desktop\Trac Nghiem v4\Server\obj\Debug\GenerateResource.write.1.tlog
+D:\Trac Nghiem v4\Server\bin\Debug\aiheo.exe.config
+D:\Trac Nghiem v4\Server\obj\Debug\aiheo.exe
+D:\Trac Nghiem v4\Server\obj\Debug\aiheo.pdb
+D:\Trac Nghiem v4\Server\bin\Debug\aiheo.exe
+D:\Trac Nghiem v4\Server\bin\Debug\aiheo.pdb
+D:\Trac Nghiem v4\Server\bin\Debug\Library.dll
+D:\Trac Nghiem v4\Server\bin\Debug\Library.pdb
+D:\Trac Nghiem v4\Server\obj\Debug\ResolveAssemblyReference.cache
+D:\Trac Nghiem v4\Server\obj\Debug\ServerTN.Server.resources
+D:\Trac Nghiem v4\Server\obj\Debug\aiheo.Properties.Resources.resources
+D:\Trac Nghiem v4\Server\obj\Debug\GenerateResource.read.1.tlog
+D:\Trac Nghiem v4\Server\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Chau\Desktop\Trac Nghiem v4\Server\bin\Debug\aiheo.exe.manifest
+C:\Users\Chau\Desktop\Trac Nghiem v4\Server\bin\Debug\aiheo.application
+C:\Users\Chau\Desktop\Trac Nghiem v4\Server\obj\Debug\aiheo.exe.manifest
+C:\Users\Chau\Desktop\Trac Nghiem v4\Server\obj\Debug\aiheo.application
+C:\Users\Chau\Desktop\Trac Nghiem v4 - Copy\Server\bin\Debug\aiheo.exe.config
+C:\Users\Chau\Desktop\Trac Nghiem v4 - Copy\Server\obj\Debug\aiheo.exe
+C:\Users\Chau\Desktop\Trac Nghiem v4 - Copy\Server\obj\Debug\aiheo.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v4 - Copy\Server\bin\Debug\aiheo.exe.manifest
+C:\Users\Chau\Desktop\Trac Nghiem v4 - Copy\Server\bin\Debug\aiheo.application
+C:\Users\Chau\Desktop\Trac Nghiem v4 - Copy\Server\bin\Debug\aiheo.exe
+C:\Users\Chau\Desktop\Trac Nghiem v4 - Copy\Server\bin\Debug\aiheo.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v4 - Copy\Server\bin\Debug\Library.dll
+C:\Users\Chau\Desktop\Trac Nghiem v4 - Copy\Server\bin\Debug\Library.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v4 - Copy\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chau\Desktop\Trac Nghiem v4 - Copy\Server\obj\Debug\ServerTN.Server.resources
+C:\Users\Chau\Desktop\Trac Nghiem v4 - Copy\Server\obj\Debug\aiheo.Properties.Resources.resources
+C:\Users\Chau\Desktop\Trac Nghiem v4 - Copy\Server\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Chau\Desktop\Trac Nghiem v4 - Copy\Server\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Chau\Desktop\Trac Nghiem v4 - Copy\Server\obj\Debug\aiheo.exe.manifest
+C:\Users\Chau\Desktop\Trac Nghiem v4 - Copy\Server\obj\Debug\aiheo.application
+C:\Users\Chau\Desktop\Trac Nghiem v5\Server\bin\Debug\aiheo.exe.config
+C:\Users\Chau\Desktop\Trac Nghiem v5\Server\obj\Debug\aiheo.exe
+C:\Users\Chau\Desktop\Trac Nghiem v5\Server\obj\Debug\aiheo.pdb
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\Server\bin\Debug\aiheo.exe.config
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\Server\obj\Debug\aiheo.exe
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\Server\obj\Debug\aiheo.pdb
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\Server\bin\Debug\aiheo.exe.manifest
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\Server\bin\Debug\aiheo.application
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\Server\bin\Debug\aiheo.exe
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\Server\bin\Debug\aiheo.pdb
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\Server\bin\Debug\Library.dll
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\Server\bin\Debug\Library.pdb
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\Server\obj\Debug\ResolveAssemblyReference.cache
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\Server\obj\Debug\ServerTN.Server.resources
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\Server\obj\Debug\aiheo.Properties.Resources.resources
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\Server\obj\Debug\GenerateResource.read.1.tlog
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\Server\obj\Debug\GenerateResource.write.1.tlog
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\Server\obj\Debug\aiheo.exe.manifest
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\Server\obj\Debug\aiheo.application
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Server\bin\Debug\aiheo.exe.config
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Server\obj\Debug\aiheo.exe
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Server\obj\Debug\aiheo.pdb
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Server\obj\Debug\ResolveAssemblyReference.cache
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Server\obj\Debug\ServerTN.Server.resources
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Server\obj\Debug\aiheo.Properties.Resources.resources
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Server\obj\Debug\GenerateResource.read.1.tlog
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Server\obj\Debug\GenerateResource.write.1.tlog
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Server\bin\Debug\aiheo.exe.manifest
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Server\bin\Debug\aiheo.application
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Server\bin\Debug\aiheo.exe
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Server\bin\Debug\aiheo.pdb
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Server\bin\Debug\Library.dll
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Server\bin\Debug\Library.pdb
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Server\obj\Debug\aiheo.exe.manifest
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Server\obj\Debug\aiheo.application
+C:\Users\Chau\Desktop\Trac Nghiem\Server\bin\Debug\aiheo.exe.config
+C:\Users\Chau\Desktop\Trac Nghiem\Server\obj\Debug\aiheo.exe
+C:\Users\Chau\Desktop\Trac Nghiem\Server\obj\Debug\aiheo.pdb
+C:\Users\Chau\Desktop\Trac Nghiem\Server\bin\Debug\aiheo.exe.manifest
+C:\Users\Chau\Desktop\Trac Nghiem\Server\bin\Debug\aiheo.application
+C:\Users\Chau\Desktop\Trac Nghiem\Server\bin\Debug\aiheo.exe
+C:\Users\Chau\Desktop\Trac Nghiem\Server\bin\Debug\aiheo.pdb
+C:\Users\Chau\Desktop\Trac Nghiem\Server\bin\Debug\Library.dll
+C:\Users\Chau\Desktop\Trac Nghiem\Server\bin\Debug\Library.pdb
+C:\Users\Chau\Desktop\Trac Nghiem\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chau\Desktop\Trac Nghiem\Server\obj\Debug\ServerTN.Server.resources
+C:\Users\Chau\Desktop\Trac Nghiem\Server\obj\Debug\aiheo.Properties.Resources.resources
+C:\Users\Chau\Desktop\Trac Nghiem\Server\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Chau\Desktop\Trac Nghiem\Server\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Chau\Desktop\Trac Nghiem\Server\obj\Debug\aiheo.exe.manifest
+C:\Users\Chau\Desktop\Trac Nghiem\Server\obj\Debug\aiheo.application
+C:\Users\Chau\Desktop\Khoa Hoc\Server\obj\Debug\aiheo.exe
+C:\Users\Chau\Desktop\Khoa Hoc\Server\obj\Debug\aiheo.pdb
+C:\Users\Chau\Desktop\Khoa Hoc\Server\bin\Debug\aiheo.exe.manifest
+C:\Users\Chau\Desktop\Khoa Hoc\Server\bin\Debug\aiheo.application
+C:\Users\Chau\Desktop\Khoa Hoc\Server\bin\Debug\aiheo.exe
+C:\Users\Chau\Desktop\Khoa Hoc\Server\bin\Debug\aiheo.pdb
+C:\Users\Chau\Desktop\Khoa Hoc\Server\bin\Debug\Library.dll
+C:\Users\Chau\Desktop\Khoa Hoc\Server\bin\Debug\Library.pdb
+C:\Users\Chau\Desktop\Khoa Hoc\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chau\Desktop\Khoa Hoc\Server\obj\Debug\ServerTN.Server.resources
+C:\Users\Chau\Desktop\Khoa Hoc\Server\obj\Debug\aiheo.Properties.Resources.resources
+C:\Users\Chau\Desktop\Khoa Hoc\Server\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Chau\Desktop\Khoa Hoc\Server\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Chau\Desktop\Khoa Hoc\Server\obj\Debug\aiheo.exe.manifest
+C:\Users\Chau\Desktop\Khoa Hoc\Server\obj\Debug\aiheo.application
+C:\Users\Chau\Desktop\Khoa Hoc\Server\bin\Debug\aiheo.exe.config

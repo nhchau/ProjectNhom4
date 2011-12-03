@@ -1,0 +1,304 @@
+c:\users\chau\documents\visual studio 2010\projects\ClientTN\ClientTN\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\chau\documents\visual studio 2010\projects\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormLogin.resources
+c:\users\chau\documents\visual studio 2010\projects\ClientTN\ClientTN\obj\x86\Debug\ClientTN.Properties.Resources.resources
+c:\users\chau\documents\visual studio 2010\projects\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\chau\documents\visual studio 2010\projects\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\chau\documents\visual studio 2010\projects\ClientTN\ClientTN\bin\Debug\ClientTN.exe
+c:\users\chau\documents\visual studio 2010\projects\ClientTN\ClientTN\bin\Debug\ClientTN.pdb
+c:\users\chau\documents\visual studio 2010\projects\ClientTN\ClientTN\bin\Debug\Library.dll
+c:\users\chau\documents\visual studio 2010\projects\ClientTN\ClientTN\bin\Debug\Library.pdb
+c:\users\chau\documents\visual studio 2010\projects\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe
+c:\users\chau\documents\visual studio 2010\projects\ClientTN\ClientTN\obj\x86\Debug\ClientTN.pdb
+C:\Users\Chau\Documents\Visual Studio 2010\Projects\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormManagement.resources
+C:\Users\Chau\Documents\Visual Studio 2010\Projects\ClientTN\ClientTN\obj\x86\Debug\ClientTN.TeacherManagement.resources
+C:\Users\Chau\Documents\Visual Studio 2010\Projects\ClientTN\ClientTN\obj\x86\Debug\ClientTN.StudentManagement.resources
+C:\Users\Chau\Documents\Visual Studio 2010\Projects\ClientTN\ClientTN\obj\x86\Debug\ClientTN.QuestionManagement.resources
+C:\Users\Chau\Documents\Visual Studio 2010\Projects\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormMark.resources
+C:\Users\Chau\Documents\Visual Studio 2010\Projects\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormSetUpExQuest.resources
+C:\Users\Chau\Documents\Visual Studio 2010\Projects\ClientTN\ClientTN\obj\x86\Debug\ClientTN.csproj.ResolveComReference.cache
+C:\Users\Chau\Documents\Visual Studio 2010\Projects\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormTest.resources
+C:\Users\Chau\Documents\Visual Studio 2010\Projects\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FrmChuanBiThi.resources
+C:\Users\Chau\Documents\Visual Studio 2010\Projects\ClientTN\ClientTN\bin\Debug\ClientTN.exe.manifest
+C:\Users\Chau\Documents\Visual Studio 2010\Projects\ClientTN\ClientTN\bin\Debug\ClientTN.application
+C:\Users\Chau\Documents\Visual Studio 2010\Projects\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe.manifest
+C:\Users\Chau\Documents\Visual Studio 2010\Projects\ClientTN\ClientTN\obj\x86\Debug\ClientTN.application
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\obj\x86\Debug\ClientTN.pdb
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\bin\Debug\ClientTN.exe.manifest
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\bin\Debug\ClientTN.application
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\bin\Debug\ClientTN.exe
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\bin\Debug\ClientTN.pdb
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\bin\Debug\Library.dll
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\bin\Debug\Library.pdb
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormLogin.resources
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormManagement.resources
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormSetUpExQuest.resources
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormTest.resources
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormMark.resources
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FrmChuanBiThi.resources
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\obj\x86\Debug\ClientTN.Properties.Resources.resources
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\obj\x86\Debug\ClientTN.QuestionManagement.resources
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\obj\x86\Debug\ClientTN.StudentManagement.resources
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\obj\x86\Debug\ClientTN.TeacherManagement.resources
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe.manifest
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\obj\x86\Debug\ClientTN.application
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\ClientTN\ClientTN\bin\Debug\ClientTN.exe.config
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\bin\Debug\ClientTN.exe.config
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.pdb
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\bin\Debug\ClientTN.exe.manifest
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\bin\Debug\ClientTN.application
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\bin\Debug\ClientTN.exe
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\bin\Debug\ClientTN.pdb
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\bin\Debug\Library.dll
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\bin\Debug\Library.pdb
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormLogin.resources
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormManagement.resources
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormSetUpExQuest.resources
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormTest.resources
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormMark.resources
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FrmChuanBiThi.resources
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.Properties.Resources.resources
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.QuestionManagement.resources
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.StudentManagement.resources
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.TeacherManagement.resources
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe.manifest
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.application
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.Subject_Management.resources
+D:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v2\ClientTN\ClientTN\bin\Debug\ClientTN.exe.config
+D:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe
+D:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\bin\Debug\ClientTN.exe.config
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\bin\Debug\ClientTN.exe.manifest
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\bin\Debug\ClientTN.application
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\bin\Debug\ClientTN.exe
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\bin\Debug\ClientTN.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\bin\Debug\Library.dll
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\bin\Debug\Library.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormLogin.resources
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormManagement.resources
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormSetUpExQuest.resources
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormTest.resources
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormMark.resources
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FrmChuanBiThi.resources
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.Properties.Resources.resources
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.QuestionManagement.resources
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.StudentManagement.resources
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.Subject_Management.resources
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.TeacherManagement.resources
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe.manifest
+C:\Users\Chau\Desktop\Trac Nghiem v2\ClientTN\ClientTN\obj\x86\Debug\ClientTN.application
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\bin\Debug\ClientTN.exe.config
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\obj\x86\Debug\ClientTN.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\bin\Debug\ClientTN.exe.manifest
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\bin\Debug\ClientTN.application
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\bin\Debug\ClientTN.exe
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\bin\Debug\ClientTN.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\bin\Debug\Library.dll
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\bin\Debug\Library.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormLogin.resources
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormManagement.resources
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormSetUpExQuest.resources
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormTest.resources
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormMark.resources
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\obj\x86\Debug\ClientTN.Properties.Resources.resources
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\obj\x86\Debug\ClientTN.QuestionManagement.resources
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\obj\x86\Debug\ClientTN.StudentManagement.resources
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\obj\x86\Debug\ClientTN.Subject_Management.resources
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\obj\x86\Debug\ClientTN.TeacherManagement.resources
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe.manifest
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\obj\x86\Debug\ClientTN.application
+C:\Users\Chau\Desktop\Trac Nghiem v3\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormWaitforTesing.resources
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\bin\Debug\ClientTN.exe.config
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormLogin.resources
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormManagement.resources
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormSetUpExQuest.resources
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormTest.resources
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormMark.resources
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormWaitforTesing.resources
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.Properties.Resources.resources
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.QuestionManagement.resources
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.StudentManagement.resources
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.Subject_Management.resources
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.TeacherManagement.resources
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\bin\Debug\ClientTN.exe.manifest
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\bin\Debug\ClientTN.application
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\bin\Debug\ClientTN.exe
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\bin\Debug\ClientTN.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\bin\Debug\Library.dll
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\bin\Debug\Library.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe.manifest
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.application
+D:\Trac Nghiem v4\ClientTN\ClientTN\bin\Debug\ClientTN.exe.config
+D:\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe
+D:\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.pdb
+D:\Trac Nghiem v4\ClientTN\ClientTN\bin\Debug\ClientTN.exe.manifest
+D:\Trac Nghiem v4\ClientTN\ClientTN\bin\Debug\ClientTN.application
+D:\Trac Nghiem v4\ClientTN\ClientTN\bin\Debug\ClientTN.exe
+D:\Trac Nghiem v4\ClientTN\ClientTN\bin\Debug\ClientTN.pdb
+D:\Trac Nghiem v4\ClientTN\ClientTN\bin\Debug\Library.dll
+D:\Trac Nghiem v4\ClientTN\ClientTN\bin\Debug\Library.pdb
+D:\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormLogin.resources
+D:\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormManagement.resources
+D:\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormSetUpExQuest.resources
+D:\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormTest.resources
+D:\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormMark.resources
+D:\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormWaitforTesing.resources
+D:\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.Properties.Resources.resources
+D:\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.QuestionManagement.resources
+D:\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.StudentManagement.resources
+D:\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.Subject_Management.resources
+D:\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.TeacherManagement.resources
+D:\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe.manifest
+D:\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.application
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.write.357.tlog
+C:\Users\Chau\Desktop\Trac Nghiem v4\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormAdvanced.resources
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\ClientTN.exe.config
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\ClientTN.exe.manifest
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\ClientTN.application
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\ClientTN.exe
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\ClientTN.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\Library.dll
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\Library.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormAdvanced.resources
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormLogin.resources
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormManagement.resources
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormSetUpExQuest.resources
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormTest.resources
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormMark.resources
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormWaitforTesing.resources
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.Properties.Resources.resources
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.QuestionManagement.resources
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.StudentManagement.resources
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.Subject_Management.resources
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.TeacherManagement.resources
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.write.357.tlog
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe.manifest
+C:\Users\Chau\Desktop\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.application
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\ClientTN.exe.config
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.pdb
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\ClientTN.exe.manifest
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\ClientTN.application
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\ClientTN.exe
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\ClientTN.pdb
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\Library.dll
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\Library.pdb
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormAdvanced.resources
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormLogin.resources
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormManagement.resources
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormSetUpExQuest.resources
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormTest.resources
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormMark.resources
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormWaitforTesing.resources
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.Properties.Resources.resources
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.QuestionManagement.resources
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.StudentManagement.resources
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.Subject_Management.resources
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.TeacherManagement.resources
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.write.357.tlog
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe.manifest
+E:\nam3_4\Do an chuyen nganh A\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.application
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\ClientTN.exe.config
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.pdb
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormAdvanced.resources
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormLogin.resources
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormManagement.resources
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormSetUpExQuest.resources
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormTest.resources
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormMark.resources
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormWaitforTesing.resources
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.Properties.Resources.resources
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.QuestionManagement.resources
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.StudentManagement.resources
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.Subject_Management.resources
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.TeacherManagement.resources
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.write.357.tlog
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\ClientTN.exe.manifest
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\ClientTN.application
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\ClientTN.exe
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\Library.dll
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\Library.pdb
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe.manifest
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\obj\x86\Debug\ClientTN.application
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\ClientTN\ClientTN\bin\Debug\ClientTN.pdb
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\bin\Debug\ClientTN.exe.config
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\obj\x86\Debug\ClientTN.pdb
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\bin\Debug\ClientTN.exe.manifest
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\bin\Debug\ClientTN.application
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\bin\Debug\ClientTN.exe
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\bin\Debug\ClientTN.pdb
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\bin\Debug\Library.dll
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\bin\Debug\Library.pdb
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormAdvanced.resources
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormLogin.resources
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormManagement.resources
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormSetUpExQuest.resources
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormTest.resources
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormMark.resources
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\obj\x86\Debug\ClientTN.FormWaitforTesing.resources
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\obj\x86\Debug\ClientTN.Properties.Resources.resources
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\obj\x86\Debug\ClientTN.QuestionManagement.resources
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\obj\x86\Debug\ClientTN.StudentManagement.resources
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\obj\x86\Debug\ClientTN.Subject_Management.resources
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\obj\x86\Debug\ClientTN.TeacherManagement.resources
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\obj\x86\Debug\GenerateResource.write.357.tlog
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\obj\x86\Debug\ClientTN.exe.manifest
+C:\Users\Chau\Desktop\Trac Nghiem\ClientTN\ClientTN\obj\x86\Debug\ClientTN.application
+C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\bin\Debug\ClientTN.exe.config
+C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\obj\x86\Debug\ClientTN.exe
+C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\obj\x86\Debug\ClientTN.pdb
+C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\bin\Debug\ClientTN.exe.manifest
+C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\bin\Debug\ClientTN.application
+C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\bin\Debug\ClientTN.exe
+C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\bin\Debug\ClientTN.pdb
+C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\bin\Debug\Library.dll
+C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\bin\Debug\Library.pdb
+C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\obj\x86\Debug\ClientTN.FormLogin.resources
+C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\obj\x86\Debug\ClientTN.Properties.Resources.resources
+C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\obj\x86\Debug\GenerateResource.write.357.tlog
+C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\obj\x86\Debug\ClientTN.exe.manifest
+C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\obj\x86\Debug\ClientTN.application
+C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\obj\x86\Debug\ClientTN.Main.resources

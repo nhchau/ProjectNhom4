@@ -1,0 +1,50 @@
+c:\users\chau\documents\visual studio 2010\projects\Library\Library\bin\Debug\Library.dll
+c:\users\chau\documents\visual studio 2010\projects\Library\Library\bin\Debug\Library.pdb
+c:\users\chau\documents\visual studio 2010\projects\Library\Library\obj\Debug\ResolveAssemblyReference.cache
+c:\users\chau\documents\visual studio 2010\projects\Library\Library\obj\Debug\Library.dll
+c:\users\chau\documents\visual studio 2010\projects\Library\Library\obj\Debug\Library.pdb
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\Library\Library\bin\Debug\Library.dll
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\Library\Library\bin\Debug\Library.pdb
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\Library\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\Library\Library\obj\Debug\Library.dll
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v1\Library\Library\obj\Debug\Library.pdb
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\Library\Library\bin\Debug\Library.dll
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\Library\Library\bin\Debug\Library.pdb
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\Library\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\Library\Library\obj\Debug\Library.dll
+D:\nam3_4\Do an chuyen nganh A\Trac Nghiem v2\Library\Library\obj\Debug\Library.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v2\Library\Library\bin\Debug\Library.dll
+C:\Users\Chau\Desktop\Trac Nghiem v2\Library\Library\bin\Debug\Library.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v2\Library\Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chau\Desktop\Trac Nghiem v2\Library\Library\obj\Debug\Library.dll
+C:\Users\Chau\Desktop\Trac Nghiem v2\Library\Library\obj\Debug\Library.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v3\Library\Library\bin\Debug\Library.dll
+C:\Users\Chau\Desktop\Trac Nghiem v3\Library\Library\bin\Debug\Library.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v3\Library\Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chau\Desktop\Trac Nghiem v3\Library\Library\obj\Debug\Library.dll
+C:\Users\Chau\Desktop\Trac Nghiem v3\Library\Library\obj\Debug\Library.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v4\Library\Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chau\Desktop\Trac Nghiem v4\Library\Library\obj\Debug\Library.dll
+C:\Users\Chau\Desktop\Trac Nghiem v4\Library\Library\bin\Debug\Library.dll
+C:\Users\Chau\Desktop\Trac Nghiem v4\Library\Library\bin\Debug\Library.pdb
+C:\Users\Chau\Desktop\Trac Nghiem v4\Library\Library\obj\Debug\Library.pdb
+D:\Trac Nghiem v4\Library\Library\bin\Debug\Library.dll
+D:\Trac Nghiem v4\Library\Library\bin\Debug\Library.pdb
+D:\Trac Nghiem v4\Library\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\Trac Nghiem v4\Library\Library\obj\Debug\Library.dll
+D:\Trac Nghiem v4\Library\Library\obj\Debug\Library.pdb
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Library\Library\bin\Debug\Library.dll
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Library\Library\bin\Debug\Library.pdb
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Library\Library\obj\Debug\ResolveAssemblyReference.cache
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Library\Library\obj\Debug\Library.dll
+E:\nam3_4\Do an chuyen nganh A\Bao cao\Trac Nghiem v5\Library\Library\obj\Debug\Library.pdb
+C:\Users\Chau\Desktop\Trac Nghiem\Library\Library\bin\Debug\Library.dll
+C:\Users\Chau\Desktop\Trac Nghiem\Library\Library\bin\Debug\Library.pdb
+C:\Users\Chau\Desktop\Trac Nghiem\Library\Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chau\Desktop\Trac Nghiem\Library\Library\obj\Debug\Library.dll
+C:\Users\Chau\Desktop\Trac Nghiem\Library\Library\obj\Debug\Library.pdb
+C:\Users\Chau\Desktop\Khoa Hoc\Library\Library\bin\Debug\Library.dll
+C:\Users\Chau\Desktop\Khoa Hoc\Library\Library\bin\Debug\Library.pdb
+C:\Users\Chau\Desktop\Khoa Hoc\Library\Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chau\Desktop\Khoa Hoc\Library\Library\obj\Debug\Library.dll
+C:\Users\Chau\Desktop\Khoa Hoc\Library\Library\obj\Debug\Library.pdb
