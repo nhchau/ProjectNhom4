@@ -144,3 +144,18 @@ C:\Users\Chau\Desktop\Khoa Hoc\Server\obj\Debug\GenerateResource.write.1.tlog
 C:\Users\Chau\Desktop\Khoa Hoc\Server\obj\Debug\aiheo.exe.manifest
 C:\Users\Chau\Desktop\Khoa Hoc\Server\obj\Debug\aiheo.application
 C:\Users\Chau\Desktop\Khoa Hoc\Server\bin\Debug\aiheo.exe.config
+E:\Cong nghe dich vu web\KhoaHoc\Server\obj\Debug\aiheo.pdb
+E:\Cong nghe dich vu web\KhoaHoc\Server\obj\Debug\ResolveAssemblyReference.cache
+E:\Cong nghe dich vu web\KhoaHoc\Server\obj\Debug\ServerTN.Server.resources
+E:\Cong nghe dich vu web\KhoaHoc\Server\obj\Debug\aiheo.Properties.Resources.resources
+E:\Cong nghe dich vu web\KhoaHoc\Server\obj\Debug\GenerateResource.read.1.tlog
+E:\Cong nghe dich vu web\KhoaHoc\Server\obj\Debug\GenerateResource.write.1.tlog
+E:\Cong nghe dich vu web\KhoaHoc\Server\bin\Debug\aiheo.exe.manifest
+E:\Cong nghe dich vu web\KhoaHoc\Server\bin\Debug\aiheo.application
+E:\Cong nghe dich vu web\KhoaHoc\Server\bin\Debug\aiheo.exe
+E:\Cong nghe dich vu web\KhoaHoc\Server\bin\Debug\aiheo.pdb
+E:\Cong nghe dich vu web\KhoaHoc\Server\bin\Debug\Library.dll
+E:\Cong nghe dich vu web\KhoaHoc\Server\bin\Debug\Library.pdb
+E:\Cong nghe dich vu web\KhoaHoc\Server\obj\Debug\aiheo.exe.manifest
+E:\Cong nghe dich vu web\KhoaHoc\Server\obj\Debug\aiheo.application
+E:\Cong nghe dich vu web\KhoaHoc\Server\obj\Debug\aiheo.exe

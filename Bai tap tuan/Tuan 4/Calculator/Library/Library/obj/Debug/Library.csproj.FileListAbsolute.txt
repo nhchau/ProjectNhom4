@@ -1,0 +1,6 @@
+C:\Users\Chau\Desktop\Library\Library\bin\Debug\Library.dll.config
+C:\Users\Chau\Desktop\Library\Library\bin\Debug\Library.dll
+C:\Users\Chau\Desktop\Library\Library\bin\Debug\Library.pdb
+C:\Users\Chau\Desktop\Library\Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chau\Desktop\Library\Library\obj\Debug\Library.dll
+C:\Users\Chau\Desktop\Library\Library\obj\Debug\Library.pdb

@@ -1,0 +1,37 @@
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Hosting\Hosting\bin\Debug\Hosting.exe
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Hosting\Hosting\bin\Debug\Hosting.pdb
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Hosting\Hosting\bin\Debug\Library.dll
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Hosting\Hosting\bin\Debug\WcfServiceLibrary1.dll
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Hosting\Hosting\bin\Debug\Library.pdb
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Hosting\Hosting\bin\Debug\WcfServiceLibrary1.pdb
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Hosting\Hosting\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Hosting\Hosting\obj\x86\Debug\Hosting.Properties.Resources.resources
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Hosting\Hosting\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Hosting\Hosting\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Hosting\Hosting\obj\x86\Debug\Hosting.exe
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Hosting\Hosting\obj\x86\Debug\Hosting.pdb
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Hosting\Hosting\obj\x86\Debug\Hosting.Host.resources
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\obj\x86\Debug\Hosting.exe
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\obj\x86\Debug\Hosting.pdb
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\bin\Debug\Hosting.exe
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\bin\Debug\Hosting.pdb
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\bin\Debug\Library.dll
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\bin\Debug\Library.pdb
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\bin\Debug\WcfServiceLibrary1.pdb
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\obj\x86\Debug\Hosting.Host.resources
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\obj\x86\Debug\Hosting.Properties.Resources.resources
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\obj\x86\Debug\Hosting.exe
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\obj\x86\Debug\Hosting.pdb
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\bin\Debug\Hosting.exe
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\bin\Debug\Hosting.pdb
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\bin\Debug\Library.dll
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\bin\Debug\Library.pdb
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\bin\Debug\WcfServiceLibrary1.pdb
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\obj\x86\Debug\Hosting.Host.resources
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\obj\x86\Debug\Hosting.Properties.Resources.resources
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Hosting\Hosting\obj\x86\Debug\GenerateResource.write.1.tlog

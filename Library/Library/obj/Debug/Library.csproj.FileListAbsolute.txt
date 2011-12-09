@@ -48,3 +48,8 @@ C:\Users\Chau\Desktop\Khoa Hoc\Library\Library\bin\Debug\Library.pdb
 C:\Users\Chau\Desktop\Khoa Hoc\Library\Library\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Chau\Desktop\Khoa Hoc\Library\Library\obj\Debug\Library.dll
 C:\Users\Chau\Desktop\Khoa Hoc\Library\Library\obj\Debug\Library.pdb
+E:\Cong nghe dich vu web\KhoaHoc\Library\Library\bin\Debug\Library.dll
+E:\Cong nghe dich vu web\KhoaHoc\Library\Library\bin\Debug\Library.pdb
+E:\Cong nghe dich vu web\KhoaHoc\Library\Library\obj\Debug\ResolveAssemblyReference.cache
+E:\Cong nghe dich vu web\KhoaHoc\Library\Library\obj\Debug\Library.dll
+E:\Cong nghe dich vu web\KhoaHoc\Library\Library\obj\Debug\Library.pdb

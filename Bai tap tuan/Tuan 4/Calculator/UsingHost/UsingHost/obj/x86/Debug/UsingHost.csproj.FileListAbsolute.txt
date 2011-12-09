@@ -1,0 +1,11 @@
+C:\Users\Chau\Desktop\UsingHost\UsingHost\bin\Debug\UsingHost.exe
+C:\Users\Chau\Desktop\UsingHost\UsingHost\bin\Debug\UsingHost.pdb
+C:\Users\Chau\Desktop\UsingHost\UsingHost\bin\Debug\Library.dll
+C:\Users\Chau\Desktop\UsingHost\UsingHost\bin\Debug\Library.pdb
+C:\Users\Chau\Desktop\UsingHost\UsingHost\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chau\Desktop\UsingHost\UsingHost\obj\x86\Debug\UsingHost.Form1.resources
+C:\Users\Chau\Desktop\UsingHost\UsingHost\obj\x86\Debug\UsingHost.Properties.Resources.resources
+C:\Users\Chau\Desktop\UsingHost\UsingHost\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chau\Desktop\UsingHost\UsingHost\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chau\Desktop\UsingHost\UsingHost\obj\x86\Debug\UsingHost.exe
+C:\Users\Chau\Desktop\UsingHost\UsingHost\obj\x86\Debug\UsingHost.pdb

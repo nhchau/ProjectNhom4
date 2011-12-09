@@ -1,0 +1,35 @@
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Client\Client\bin\Debug\Client.exe
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Client\Client\bin\Debug\Client.pdb
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Client\Client\bin\Debug\Library.dll
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Client\Client\bin\Debug\Library.pdb
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.Form1.resources
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.exe
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.pdb
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\obj\x86\Debug\Client.exe
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\obj\x86\Debug\Client.pdb
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\bin\Debug\Client.exe
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\bin\Debug\Client.pdb
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\bin\Debug\Library.dll
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\bin\Debug\Library.pdb
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\obj\x86\Debug\Client.Form1.resources
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\obj\x86\Debug\Client.exe
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\obj\x86\Debug\Client.pdb
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\bin\Debug\Client.exe
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\bin\Debug\Client.pdb
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\bin\Debug\Library.dll
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\bin\Debug\Library.pdb
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\obj\x86\Debug\Client.Form1.resources
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Client\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\ThucHanh\Tuan5\Github\Client\Client\obj\x86\Debug\Client.exe
+D:\nam4_1\Cong nghe va dich vu Web\CNDVW\ThucHanh\Tuan5\Github\Client\Client\obj\x86\Debug\Client.pdb

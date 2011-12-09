@@ -1,0 +1,12 @@
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Library\Library\bin\Debug\Library.dll.config
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Library\Library\bin\Debug\Library.dll
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Library\Library\bin\Debug\Library.pdb
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Library\Library\obj\Debug\ResolveAssemblyReference.cache
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Library\Library\obj\Debug\Library.dll
+c:\users\lap_trinh\documents\visual studio 2010\Projects\Library\Library\obj\Debug\Library.pdb
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Library\Library\bin\Debug\Library.dll.config
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Library\Library\bin\Debug\Library.dll
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Library\Library\bin\Debug\Library.pdb
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Library\Library\obj\Debug\ResolveAssemblyReference.cache
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Library\Library\obj\Debug\Library.dll
+E:\nam4_1\Cong nghe va dich vu Web\CNDVW\Project\Library\Library\obj\Debug\Library.pdb

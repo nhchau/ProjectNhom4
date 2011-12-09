@@ -302,3 +302,20 @@ C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\obj\x86\Debug\GenerateResource.wr
 C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\obj\x86\Debug\ClientTN.exe.manifest
 C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\obj\x86\Debug\ClientTN.application
 C:\Users\Chau\Desktop\Khoa Hoc\Client\ClientTN\obj\x86\Debug\ClientTN.Main.resources
+E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\bin\Debug\ClientTN.exe.manifest
+E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\bin\Debug\ClientTN.application
+E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\bin\Debug\ClientTN.exe
+E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\bin\Debug\ClientTN.pdb
+E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\bin\Debug\Library.dll
+E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\bin\Debug\Library.pdb
+E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\obj\x86\Debug\ClientTN.FormLogin.resources
+E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\obj\x86\Debug\ClientTN.Main.resources
+E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\obj\x86\Debug\ClientTN.Properties.Resources.resources
+E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\obj\x86\Debug\GenerateResource.write.357.tlog
+E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\obj\x86\Debug\ClientTN.exe.manifest
+E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\obj\x86\Debug\ClientTN.application
+E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\obj\x86\Debug\ClientTN.exe
+E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\obj\x86\Debug\ClientTN.pdb
