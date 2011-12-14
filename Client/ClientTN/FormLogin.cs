@@ -30,7 +30,7 @@ namespace ClientTN
                 MessageBox.Show("IP Address are required to connect to the Server\n");
                 return;
             }
-            //try
+            try
             {                           
                 string uname = TxtUserName.Text.Substring(0, 2);            
                 switch (uname.ToUpper())
@@ -41,7 +41,7 @@ namespace ClientTN
                             if (proxy.CheckLoginAD(TxtUserName.Text, TxtPassWord.Text))
                             {
                                 this.Hide();
-                                //new FormManagement(true, TxtUserName.Text, HOST).Show();
+                                new Formmanagement().Show();
                             }
                             else
                             {
@@ -52,14 +52,12 @@ namespace ClientTN
                             break;
                         }
                     case "GV":
-                        {
-                            String uri = "tcp://" + HOST + ":123/IGiaoVien";
+                        {                            
                             IService proxy = ChannelFactory<IService>.CreateChannel(binding, address);
                             if (proxy.CheckLoginGV(TxtUserName.Text, TxtPassWord.Text))
                             {
-                                this.Hide();
-                                //new FormManagement(false, TxtUserName.Text, HOST).Show();
-                                new Main(HOST).Show();
+                                this.Hide();                                
+                                new Main(HOST, true).Show();
                             }
                             else
                             {
@@ -76,8 +74,7 @@ namespace ClientTN
                             if (proxy.CheckLoginSV(TxtUserName.Text, TxtPassWord.Text))
                             {
                                 this.Hide();
-                                //new FormWaitforTesing(TxtUserName.Text, HOST).Show();
-                                new Main(HOST).Show();
+                                new Main(HOST, false).Show();                               
                             }
                             else
                             {
@@ -89,10 +86,19 @@ namespace ClientTN
                         }
                 }
             }
-            //catch
+            catch
             {
                 MessageBox.Show("Can not connect to Server");
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            HOST = textBoxIP.Text;
+            if (textBoxIP.Text == "")
+                MessageBox.Show("Bạn phải nhập địa chỉ máy chủ");
+            else
+            new Register(HOST).Show();
         }
     }
 }

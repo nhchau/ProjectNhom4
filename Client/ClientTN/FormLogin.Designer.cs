@@ -35,6 +35,7 @@
             this.buttonConnect = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.textBoxIP = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // TxtUserName
@@ -98,11 +99,22 @@
             this.textBoxIP.Size = new System.Drawing.Size(152, 20);
             this.textBoxIP.TabIndex = 34;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(216, 104);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 39;
+            this.button1.Text = "Sign in";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // FormLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(356, 168);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.buttonConnect);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBoxIP);
@@ -126,6 +138,7 @@
         private System.Windows.Forms.Button buttonConnect;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox textBoxIP;
+        private System.Windows.Forms.Button button1;
     }
 }
 
