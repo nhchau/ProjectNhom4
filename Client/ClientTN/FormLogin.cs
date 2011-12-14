@@ -41,7 +41,7 @@ namespace ClientTN
                             if (proxy.CheckLoginAD(TxtUserName.Text, TxtPassWord.Text))
                             {
                                 this.Hide();
-                                new Formmanagement().Show();
+                                new Formmanagement(HOST).Show();
                             }
                             else
                             {

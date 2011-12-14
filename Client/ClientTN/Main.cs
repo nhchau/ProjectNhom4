@@ -59,6 +59,23 @@ namespace ClientTN
             Chitietkh kh = proxy.GetCourseDetail(makh.ToString());
             string manganh = kh.Manganh;
             MessageBox.Show(manganh, "Thông tin chi tiết khóa học", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            DBAccess Db = new DBAccess();
+            EndpointAddress address = new EndpointAddress("http://" + HOST + "/:8000/IService");
+            IService proxy = ChannelFactory<IService>.CreateChannel(binding, address);
+            dataGridView1.DataSource = Db.TruyVan_TraVe_DataTable("select tenkh, manganh from KhoaHoc, CTKH where KhoaHoc.MaKH=CTKH.Makh and Chitiet like('%" + textBox3.Text + "%')");
+            dataGridView1.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            DBAccess Db = new DBAccess();
+            string manganh = comboBox2.SelectedItem.ToString();
+            dataGridView1.DataSource = Db.TruyVan_TraVe_DataTable("select tenkh, manganh from KhoaHoc, CTKH where manganh='"+manganh+"'");
+            dataGridView1.Show();
         }             
     }
 }

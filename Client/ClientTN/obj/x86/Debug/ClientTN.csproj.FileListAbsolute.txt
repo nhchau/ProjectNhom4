@@ -320,3 +320,4 @@ E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\obj\x86\Debug\ClientTN.applicat
 E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\obj\x86\Debug\ClientTN.exe
 E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\obj\x86\Debug\ClientTN.pdb
 E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\obj\x86\Debug\ClientTN.Register.resources
+E:\Cong nghe dich vu web\KhoaHoc\Client\ClientTN\obj\x86\Debug\ClientTN.Formmanagement.resources

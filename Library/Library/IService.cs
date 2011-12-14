@@ -29,6 +29,14 @@ namespace Library
         DataTable GetAllSubject();
         [OperationContract]
         Chitietkh GetCourseDetail(string makh);
+        [OperationContract]
+        DataTable SearchAll(string key);
+        [OperationContract]
+        DataTable SearchByCategory(string manganh);
+        [OperationContract]
+        DataTable GetTeacher();
+        [OperationContract]
+        DataTable GetStudent();
     }
     [DataContract]
     public class Chitietkh

@@ -117,6 +117,21 @@ namespace Library
             
             return kh;
         }
-    
+        public DataTable SearchAll(string key)
+        {
+            return Db.TruyVan_TraVe_DataTable("select tenkh, manganh from KhoaHoc, CTKH where KhoaHoc.MaKH=CTKH.Makh and Chitiet like('%"+key+"%')");
+        }
+        public DataTable SearchByCategory(string manganh)
+        {
+            return Db.TruyVan_TraVe_DataTable("select tenkh, manganh from KhoaHoc where manganh like('%" + manganh + "%')");
+        }
+        public DataTable GetTeacher()
+        {
+            return Db.TruyVan_TraVe_DataTable("select * from nguoidang");
+        }
+        public DataTable GetStudent()
+        {
+            return Db.TruyVan_TraVe_DataTable("select * from nguoihoc");
+        }
     }    
 }
