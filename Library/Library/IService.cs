@@ -22,40 +22,65 @@ namespace Library
         [OperationContract]
         string GetAuthors();
         [OperationContract]
-        void Register(string UserName, string PassWord, string dienthoai, bool IsGV);
+        void Register(string UserName, string PassWord, string dienthoai, string SN, bool IsGV);
         [OperationContract]
         void Addcourse(string Tenkh, string manganh, DateTime batdau, DateTime kethuc, string chitiet, int hocphi, int manguoidang);
         [OperationContract]
-        DataTable GetAllSubject();
+        CourseDetail GetCourseDetail(string makh);  
         [OperationContract]
-        Chitietkh GetCourseDetail(string makh);
+        AllSubject GetAllSubject();
         [OperationContract]
-        DataTable SearchAll(string key);
+        Result SearchAll(string key);              
         [OperationContract]
-        DataTable SearchByCategory(string manganh);
+        ResultByCategory SearchByCategory(string manganh);
         [OperationContract]
-        DataTable GetTeacher();
+        Teacher GetTeacher();
         [OperationContract]
-        DataTable GetStudent();
+        Student GetStudent();
     }
     [DataContract]
-    public class Chitietkh
-    {
-        private string tenkh;
+     public class AllSubject
+    {        
+        private int makh;      
+        private string tenkh;        
         private string manganh;
-        private string batdau;
-        private string ketthuc;
-        private string hocphi;
-        private string chitiet;
-        private string tenlienlac;
-        private string dtlienlac;
-
+        [DataMember]
+        public int Makh
+        {
+            get { return makh; }
+            set { makh = value; }
+        }        
         [DataMember]
         public string Tenkh
         {
             get { return tenkh; }
             set { tenkh = value; }
         }
+        [DataMember]
+        public string Manganh
+        {
+            get { return manganh; }
+            set { manganh = value; }
+        }       
+    }
+    [DataContract]
+    public class CourseDetail
+    {
+        private string tenkh;        
+        private string manganh;
+        private string batdau;
+        private string ketthuc;
+        private string chitiet;
+        private int hocphi;
+        private string ten;
+        private string dt;        
+        [DataMember]
+        public string Tenkh
+        {
+            get { return tenkh; }
+            set { tenkh = value; }
+        }       
+       
         [DataMember]
         public string Manganh
         {
@@ -68,46 +93,145 @@ namespace Library
             get { return batdau; }
             set { batdau = value; }
         }
+        [DataMember]
         public string Ketthuc
         {
             get { return ketthuc; }
             set { ketthuc = value; }
         }
-        public string Hocphi
-        {
-            get { return hocphi; }
-            set { hocphi = value; }
-        }
+        [DataMember]
         public string Chitiet
         {
             get { return chitiet; }
             set { chitiet = value; }
         }
-        public string Tenlienlac
+        [DataMember]
+        public int Hocphi
         {
-            get { return tenlienlac; }
-            set { tenlienlac = value; }
-        }        
-        public string Dtlienlac
-        {
-            get { return dtlienlac; }
-            set { dtlienlac = value; }
+            get { return hocphi; }
+            set { hocphi = value; }
         }
-
-        public Chitietkh(string manganh, string batdau, string ketthuc, string hocphi, string chitiet, string tenlienlac, string dtlienlac)
+        [DataMember]
+        public string Ten
         {
-            this.manganh=manganh;
-            this.batdau=batdau;
-            this.ketthuc=ketthuc;
-            this.hocphi=hocphi;
-            this.chitiet=chitiet;
-            this.tenlienlac=tenlienlac;
-            this.dtlienlac=dtlienlac;
+            get { return ten; }
+            set { ten = value; }
         }
-
-        public Chitietkh()
+        [DataMember]
+        public string Dt
         {
-            // TODO: Complete member initialization
-        }     
+            get { return dt; }
+            set { dt = value; }
+        }
+    }
+    [DataContract]
+    public class Result
+    {        
+        private string tenkh;
+        private string manganh;        
+        [DataMember]
+        public string Tenkh
+        {
+            get { return tenkh; }
+            set { tenkh = value; }
+        }
+        [DataMember]
+        public string Manganh
+        {
+            get { return manganh; }
+            set { manganh = value; }
+        }
+    }
+    [DataContract]
+    public class ResultByCategory
+    {       
+        private string tenkh;
+        private string manganh;        
+        [DataMember]
+        public string Tenkh
+        {
+            get { return tenkh; }
+            set { tenkh = value; }
+        }
+        [DataMember]
+        public string Manganh
+        {
+            get { return manganh; }
+            set { manganh = value; }
+        }
+    }
+    [DataContract]
+    public class Teacher
+    {
+        private int ma;
+        private string ten;
+        private string mk;
+        private string dt;
+        private string sn;
+        [DataMember]
+        public int Ma
+        {
+            get { return ma; }
+            set { ma = value; }
+        }
+        [DataMember]
+        public string Ten
+        {
+            get { return ten; }
+            set { ten = value; }
+        }
+        [DataMember]
+        public string Mk
+        {
+            get { return mk; }
+            set { mk = value; }
+        }
+        public string Dt
+        {
+            get { return dt; }
+            set { dt = value; }
+        }
+        public string Sn
+        {
+            get { return sn; }
+            set { sn = value; }
+        }
+    }
+    [DataContract]
+    public class Student
+    {
+        private int ma;
+        private string ten;
+        private string mk;
+        private string dt;
+        private string sn;
+        [DataMember]
+        public int Ma
+        {
+            get { return ma; }
+            set { ma = value; }
+        }
+        [DataMember]
+        public string Ten
+        {
+            get { return ten; }
+            set { ten = value; }
+        }
+        [DataMember]
+        public string Mk
+        {
+            get { return mk; }
+            set { mk = value; }
+        }
+        public string Dt
+        {
+            get { return dt; }
+            set { dt = value; }
+        }
+        public string Sn
+        {
+            get { return sn; }
+            set { sn = value; }
+        }
     }
 }

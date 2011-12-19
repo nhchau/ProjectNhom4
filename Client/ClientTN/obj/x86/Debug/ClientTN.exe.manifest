@@ -42,26 +42,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ClientTN.exe" size="23552">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ClientTN.exe" size="27648">
       <assemblyIdentity name="ClientTN" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Fs6+VEXyZJGDNZ9ry90Xt5LrvOo=</dsig:DigestValue>
+        <dsig:DigestValue>bQJnJEdffLjUZzdfRG2iyZH/sIY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Library.dll" size="10752">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Library.dll" size="14336">
       <assemblyIdentity name="Library" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>E1rNT2FQM8eLYeEU/aLB37VG5Ok=</dsig:DigestValue>
+        <dsig:DigestValue>f+2EjXpWwgQL/kNCrd4MghWA5nA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

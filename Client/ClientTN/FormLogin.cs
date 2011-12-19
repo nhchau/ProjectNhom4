@@ -23,6 +23,7 @@ namespace ClientTN
         BasicHttpBinding binding = new BasicHttpBinding();
         private void buttonConnect_Click(object sender, EventArgs e)
         {
+            
             HOST = textBoxIP.Text;
             EndpointAddress address = new EndpointAddress("http://"+HOST+"/:8000/IService");
             if (textBoxIP.Text == "")
@@ -56,8 +57,8 @@ namespace ClientTN
                             IService proxy = ChannelFactory<IService>.CreateChannel(binding, address);
                             if (proxy.CheckLoginGV(TxtUserName.Text, TxtPassWord.Text))
                             {
-                                this.Hide();                                
-                                new Main(HOST, true).Show();
+                                this.Hide();
+                                new Main(TxtUserName.Text, HOST, true).Show();
                             }
                             else
                             {
@@ -68,13 +69,14 @@ namespace ClientTN
                             break;
                         }
                     default:
-                        {
+                        {    
+                            
                             IService proxy = ChannelFactory<IService>.CreateChannel(binding, address);
                             
                             if (proxy.CheckLoginSV(TxtUserName.Text, TxtPassWord.Text))
                             {
                                 this.Hide();
-                                new Main(HOST, false).Show();                               
+                                new Main(TxtUserName.Text, HOST, false).Show();                               
                             }
                             else
                             {
@@ -85,20 +87,24 @@ namespace ClientTN
                             break;
                         }
                 }
-            }
-            catch
+            }            
+            catch (FaultException exp)
             {
-                MessageBox.Show("Can not connect to Server");
+                MessageBox.Show(exp.Code.Name + ": " + exp.Message.ToString(), exp.GetType().ToString());
             }
-        }
+            catch (Exception exp)
+            {
+                MessageBox.Show(exp.Message.ToString(), exp.GetType().ToString());
+            }
+        }       
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click_1(object sender, EventArgs e)
         {
             HOST = textBoxIP.Text;
             if (textBoxIP.Text == "")
                 MessageBox.Show("Bạn phải nhập địa chỉ máy chủ");
             else
-            new Register(HOST).Show();
-        }
+                new Register(HOST).Show();
+        }        
     }
 }

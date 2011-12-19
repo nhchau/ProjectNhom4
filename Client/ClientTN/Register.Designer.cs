@@ -28,8 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtMk = new System.Windows.Forms.TextBox();
+            this.txtDt = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -40,27 +40,30 @@
             this.button1 = new System.Windows.Forms.Button();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.txtTen = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.txtRMk = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
-            // textBox1
+            // txtMk
             // 
-            this.textBox1.Location = new System.Drawing.Point(187, 96);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(163, 20);
-            this.textBox1.TabIndex = 0;
+            this.txtMk.Location = new System.Drawing.Point(187, 66);
+            this.txtMk.Name = "txtMk";
+            this.txtMk.Size = new System.Drawing.Size(163, 20);
+            this.txtMk.TabIndex = 0;
+            this.txtMk.UseSystemPasswordChar = true;
             // 
-            // textBox2
+            // txtDt
             // 
-            this.textBox2.Location = new System.Drawing.Point(187, 140);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(163, 20);
-            this.textBox2.TabIndex = 1;
+            this.txtDt.Location = new System.Drawing.Point(187, 140);
+            this.txtDt.Name = "txtDt";
+            this.txtDt.Size = new System.Drawing.Size(163, 20);
+            this.txtDt.TabIndex = 1;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(74, 102);
+            this.label1.Location = new System.Drawing.Point(74, 72);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(52, 13);
             this.label1.TabIndex = 4;
@@ -87,6 +90,38 @@
             // comboBox1
             // 
             this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Items.AddRange(new object[] {
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31"});
             this.comboBox1.Location = new System.Drawing.Point(187, 181);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(53, 21);
@@ -95,6 +130,19 @@
             // comboBox2
             // 
             this.comboBox2.FormattingEnabled = true;
+            this.comboBox2.Items.AddRange(new object[] {
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"});
             this.comboBox2.Location = new System.Drawing.Point(246, 182);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(53, 21);
@@ -103,6 +151,18 @@
             // comboBox3
             // 
             this.comboBox3.FormattingEnabled = true;
+            this.comboBox3.Items.AddRange(new object[] {
+            "1985",
+            "1986",
+            "1987",
+            "1988",
+            "1989",
+            "1990",
+            "1991",
+            "1992",
+            "1993",
+            "1994",
+            "1995"});
             this.comboBox3.Location = new System.Drawing.Point(305, 181);
             this.comboBox3.Name = "comboBox3";
             this.comboBox3.Size = new System.Drawing.Size(65, 21);
@@ -140,26 +200,45 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(74, 64);
+            this.label5.Location = new System.Drawing.Point(74, 34);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(68, 13);
             this.label5.TabIndex = 15;
             this.label5.Text = "Tên đăng ký";
             // 
-            // textBox3
+            // txtTen
             // 
-            this.textBox3.Location = new System.Drawing.Point(187, 58);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(163, 20);
-            this.textBox3.TabIndex = 14;
+            this.txtTen.Location = new System.Drawing.Point(187, 28);
+            this.txtTen.Name = "txtTen";
+            this.txtTen.Size = new System.Drawing.Size(163, 20);
+            this.txtTen.TabIndex = 14;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(75, 108);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(93, 13);
+            this.label6.TabIndex = 17;
+            this.label6.Text = "Nhắc lại mật khẩu";
+            // 
+            // txtRMk
+            // 
+            this.txtRMk.Location = new System.Drawing.Point(188, 102);
+            this.txtRMk.Name = "txtRMk";
+            this.txtRMk.Size = new System.Drawing.Size(163, 20);
+            this.txtRMk.TabIndex = 16;
+            this.txtRMk.UseSystemPasswordChar = true;
             // 
             // Register
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(496, 289);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.txtRMk);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.txtTen);
             this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label4);
@@ -169,11 +248,10 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtDt);
+            this.Controls.Add(this.txtMk);
             this.Name = "Register";
-            this.Text = "Mật khẩu";
-            //this.Load += new System.EventHandler(this.Register_Load);
+            this.Text = "Đăng ký tài khoản";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -181,8 +259,8 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtMk;
+        private System.Windows.Forms.TextBox txtDt;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
@@ -193,6 +271,8 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.CheckBox checkBox1;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox txtTen;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.TextBox txtRMk;
     }
 }

@@ -16,6 +16,7 @@ namespace ClientTN
     public partial class Formmanagement : Form
     {
         string HOST;
+        DBAccess Db = new DBAccess();
         BasicHttpBinding binding = new BasicHttpBinding();
         public Formmanagement(string IP)
         {
@@ -27,14 +28,16 @@ namespace ClientTN
         {
             EndpointAddress address = new EndpointAddress("http://" + HOST + "/:8000/IService");
             IService proxy = ChannelFactory<IService>.CreateChannel(binding, address);
-            dataGridView1.DataSource = proxy.GetStudent();
+            dataGridView1.DataSource = Db.TruyVan_TraVe_DataTable("select * from nguoihoc");
+            dataGridView1.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             EndpointAddress address = new EndpointAddress("http://" + HOST + "/:8000/IService");
             IService proxy = ChannelFactory<IService>.CreateChannel(binding, address);
-            dataGridView1.DataSource = proxy.GetTeacher();
+            dataGridView1.DataSource = Db.TruyVan_TraVe_DataTable("select * from nguoidang");
+            dataGridView1.Show();
         }
     }
 }

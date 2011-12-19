@@ -42,26 +42,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="aiheo.exe" size="13824">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="aiheo.exe" size="10240">
       <assemblyIdentity name="aiheo" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>PN4birmJ9aixx2jRiqUB5mphXmQ=</dsig:DigestValue>
+        <dsig:DigestValue>2BLZi3XqhgKdIZLC8B5oqG3AzN4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Library.dll" size="10752">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Library.dll" size="14336">
       <assemblyIdentity name="Library" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>E1rNT2FQM8eLYeEU/aLB37VG5Ok=</dsig:DigestValue>
+        <dsig:DigestValue>f+2EjXpWwgQL/kNCrd4MghWA5nA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
